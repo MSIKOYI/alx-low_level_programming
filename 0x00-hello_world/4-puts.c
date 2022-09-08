@@ -1,4 +1,5 @@
 #!/bin/bash
+//online c compiler to run c program online
 # include <stdio.h>
 /**
  * main - entry point
