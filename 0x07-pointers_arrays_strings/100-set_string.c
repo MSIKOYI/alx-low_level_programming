@@ -1,4 +1,9 @@
-include "main.h"
+/*
+ * File: 100-Set_String.C
+ * Auth: EASY
+ */
+
+#include "main.h"
 
 /**
  * set_string - Entry point
@@ -9,4 +14,4 @@ include "main.h"
 void set_string(char **s, char *to)
 {
 	*s = to;
-}
+
